@@ -1,2 +1,4 @@
-# reportgenerator-choc
-Chocolatey package for ReportGenerator
+reportgenerator-choc
+=============================
+
+Chocolatey package for [ReportGenerator](https://github.com/danielpalme/ReportGenerator).
